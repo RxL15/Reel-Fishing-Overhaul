@@ -1,9 +1,0 @@
-{
-  "pack": {
-    "description": "Reel Fishing Overhaul - reel in live fish instead of items",
-    "pack_format": 48,
-    "supported_formats": [48, 101],
-    "min_format": 48,
-    "max_format": [101, 1]
-  }
-}
